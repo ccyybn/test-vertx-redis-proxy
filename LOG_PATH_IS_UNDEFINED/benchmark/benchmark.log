@@ -1,0 +1,12 @@
+[BENCHMARK]11:19:34.076 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush try! 1->1000
+[BENCHMARK]11:19:35.055 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush try! 1001->2000
+[BENCHMARK]11:19:36.070 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush try! 2001->3000
+[BENCHMARK]11:19:36.198 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush success! 1->1000
+[BENCHMARK]11:19:36.214 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush success! 1001->2000
+[BENCHMARK]11:19:36.228 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush success! 2001->3000
+[BENCHMARK]11:19:37.056 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush try! 3001->4000
+[BENCHMARK]11:19:37.066 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush success! 3001->4000
+[BENCHMARK]11:19:38.055 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush try! 4001->5000
+[BENCHMARK]11:19:38.063 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush success! 4001->5000
+[BENCHMARK]11:19:39.055 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush try! 5001->6000
+[BENCHMARK]11:19:39.068 [vert.x-eventloop-thread-0] DEBUG c.x.r.Pusher - rpush success! 5001->6000
